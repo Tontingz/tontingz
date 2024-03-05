@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, my name is Mark, I am currently in Digital Game Design II. My interest in this class was the idea of being able to make games, and find out how to use different programs and to get deeper into computers. I wish to learn about python.
 
 <!--
 **Tontingz/tontingz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
